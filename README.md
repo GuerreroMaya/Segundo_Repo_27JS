@@ -4,3 +4,5 @@ Repositorio clase 25 mayo
 San Francisco 49ers
 
 Joe Montana
+
+Jerry Rice
