@@ -10,3 +10,5 @@ Jerry Rice
 Steve Young
 
 Brock Purdy
+
+Deebo Samuel
